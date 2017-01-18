@@ -1,0 +1,8 @@
+.DS_Store
+.gradle/
+Application/build/
+.idea/
+Application/Application.iml
+build/
+local.properties
+android-Camera2Basic.iml
